@@ -2,8 +2,8 @@
 
 <img src="icons/nodejs.svg" height="40"> <img src="icons/bun.svg" height="40">
 
-<img src="icons/svelte.svg" height="40"> <img src="icons/vuejs.svg" height="40"> <img src
+<img src="icons/svelte.svg" height="40"> <img src="icons/vuejs.svg" height="40"> <img src="icons/nuxt.svg" height="40">
 
-<img src="icons/jquery.svg" height="40"> <img src="icons/tailwindcss.svg" height="40">="icons/nuxt.svg" height="40">
+<img src="icons/jquery.svg" height="40"> <img src="icons/tailwindcss.svg" height="40">
 
 <img src="icons/tauri.svg" height="40">
